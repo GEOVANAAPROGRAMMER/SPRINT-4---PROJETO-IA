@@ -28,7 +28,7 @@ Utilizamos a Inteligência Artificial para direcionar o guincho ideal para cada 
  - [x] Sistema de reconhecimento de imagens veiculares para identificar as necessidades de resgate de forma precisa, permitindo assim a escolha do guincho mais apropriado para o atendimento.
 
 ## Demonstração
- ![demostracao_1](./assets/Cod_1.png)
+ ![demostracao_1](Conversa.png)
  ![demostracao_2](./assets/Cod_2.png)
  ![demostracao_3](./assets/Cod_3.png)
 
