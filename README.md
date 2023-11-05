@@ -4,12 +4,13 @@ Utilizamos a Inteligência Artificial para direcionar o guincho ideal para cada 
 
 ## Índice
 - <a href="#funcionalidades">Funcionalidades do Projeto</a>
-- <a href="#Layout">Layout</a>
+- <a href="#Layout">Contato com o cliente</a>
+- <a href="#requisitos">Requisitos</a>
 - <a href="#demonstracao">Demonstração</a>
 - <a href="#rodar">Como rodar este projeto?</a>
 - <a href="#Tecnologias">Tecnologias Utilizadas</a>
 - <a href="#autoras">Pessoas Autoras</a>
-- <a href="passos">Próximos Passos</a>
+- <a href="#passos">Próximos Passos</a>
 
 ## Funcionalidades do Projeto
 
@@ -19,7 +20,7 @@ Utilizamos a Inteligência Artificial para direcionar o guincho ideal para cada 
  - [x] Envio de modal correto.
 
  ## Contato com o cliente
- ![exemplo_layout_do_site](./assets/Layout_1.jpg)
+ ![Conversa_com_cliente](Conversa.png)
 
  ## Requisitos
  - [x] Banco de dados.
@@ -28,9 +29,9 @@ Utilizamos a Inteligência Artificial para direcionar o guincho ideal para cada 
  - [x] Sistema de reconhecimento de imagens veiculares para identificar as necessidades de resgate de forma precisa, permitindo assim a escolha do guincho mais apropriado para o atendimento.
 
 ## Demonstração
- ![demostracao_1](Conversa.png)
- ![demostracao_2](./assets/Cod_2.png)
- ![demostracao_3](./assets/Cod_3.png)
+ ![demostracao_1](caminhão_pequeno.png)
+ ![demostracao_2](caminhão_danificado.png)
+
 
 ## Detalhes do Projeto
 - [x] A plataforma que notifica ONGs sobre locais de vulnerabilidade alimentar pode desempenhar um papel crucial na redução da insegurança alimentar. Aqui estão algumas maneiras pelas quais essa plataforma pode ajudar nesse contexto:
